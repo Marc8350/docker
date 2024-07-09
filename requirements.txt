@@ -1,0 +1,5 @@
+apscheduler
+asyncio 
+scrapy
+pg8000
+utils

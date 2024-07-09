@@ -1,0 +1,262 @@
+INFO: Started crawling 2024-07-09 16:38:16.556604...
+2024-07-09 16:38:16 [scrapy.addons] INFO: Enabled addons:
+[]
+2024-07-09 16:38:16 [scrapy.extensions.telnet] INFO: Telnet Password: 9e4c768ffa53a852
+2024-07-09 16:38:16 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2024-07-09 16:38:16 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'jobs',
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'jobs/logs/2024-07-09.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'jobs.spiders',
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'ROBOTSTXT_OBEY': True,
+ 'SPIDER_MODULES': ['jobs.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2024-07-09 16:38:17 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2024-07-09 16:38:17 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2024-07-09 16:38:17 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2024-07-09 16:38:17 [scrapy.core.engine] INFO: Spider opened
+2024-07-09 16:38:17 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2024-07-09 16:38:17 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Automotive salesman / woman  from  Automotive salesman / woman  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Confectioner  from  Confectioner  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Sales assistant - food trade  from  Sales assistant - food trade  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Sales assistant - food trade  from  Sales assistant - food trade  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Industrial electrician - operating technology  from  Industrial electrician - operating technology  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  IT solution developer  from  IT solution developer  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Digital Sales Manager  from  Digital Sales Manager  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Engineer - Renewable Energies  from  Engineer - Renewable Energies  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Physiotherapist  from  Physiotherapist  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: No contact person found
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Nursing specialist (training)  from  Nursing specialist (training)  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Paramedic  from  Paramedic  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Waldorf educator  from  Waldorf educator  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Dental technician  from  Dental technician  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Digital Sales Manager  from  Digital Sales Manager  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  IT account manager  from  IT account manager  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Engineer - Mechatronics  from  Engineer - Mechatronics  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Technician - mechanical engineering (without focus)  from  Technician - mechanical engineering (without focus)  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Nursing specialist (geriatric care)  from  Nursing specialist (geriatric care)  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Plant mechanic - sanitary, heating and air conditioning technology  from  Plant mechanic - sanitary, heating and air conditioning technology  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Quality Assurance Technician  from  Quality Assurance Technician  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Cook  from  Cook  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Retail salesman / woman  from  Retail salesman / woman  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Machine and plant operator (o. indication of focus)  from  Machine and plant operator (o. indication of focus)  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Maintenance technician  from  Maintenance technician  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Business economist (technical college) - Controlling  from  Business economist (technical college) - Controlling  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Joiner  from  Joiner  at 2024-07-09 16:38:18
+2024-07-09 16:38:18 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:18
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Engineer - Mechatronics  from  Engineer - Mechatronics  at 2024-07-09 16:38:18
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Body and vehicle builder - vehicle construction  from  Body and vehicle builder - vehicle construction  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Cook  from  Cook  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Body and vehicle builder - vehicle construction  from  Body and vehicle builder - vehicle construction  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Nursing specialist (training)  from  Nursing specialist (training)  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Technician - chemical engineering (without focus)  from  Technician - chemical engineering (without focus)  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Technician - Machining Technology  from  Technician - Machining Technology  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Business economist (technical college) - production management  from  Business economist (technical college) - production management  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Food technical assistant  from  Food technical assistant  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Operating engineer  from  Operating engineer  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Gardener - Gardening and landscaping  from  Gardener - Gardening and landscaping  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Mechatronics technician  from  Mechatronics technician  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Engineer - Medical Technology  from  Engineer - Medical Technology  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Industrial engineer  from  Industrial engineer  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Engineer - Medical Technology  from  Engineer - Medical Technology  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Physiotherapist  from  Physiotherapist  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Vehicle painter  from  Vehicle painter  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Chef de rang  from  Chef de rang  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  CAM organizer  from  CAM organizer  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Resident physician  from  Resident physician  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Balance sheet accountant/B. Prof. Balance Sheet Accounting  from  Balance sheet accountant/B. Prof. Balance Sheet Accounting  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Secretary  from  Secretary  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Resident physician  from  Resident physician  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Plant mechanic - sanitary, heating and air conditioning technology  from  Plant mechanic - sanitary, heating and air conditioning technology  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Nursing specialist (training)  from  Nursing specialist (training)  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Operating engineer  from  Operating engineer  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Engineer - Environmental Protection/Environmental Engineering  from  Engineer - Environmental Protection/Environmental Engineering  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Welder  from  Welder  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Maintenance technician  from  Maintenance technician  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Engineer - Mechatronics  from  Engineer - Mechatronics  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Frontend developer  from  Frontend developer  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Operating engineer  from  Operating engineer  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Welder  from  Welder  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Cook  from  Cook  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Nursing specialist (training)  from  Nursing specialist (training)  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Specialist - Internal Medicine  from  Specialist - Internal Medicine  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Medical assistant  from  Medical assistant  at 2024-07-09 16:38:19
+2024-07-09 16:38:19 [root] INFO: Scraped job:  Specialist - quality assurance/management  from  Specialist - quality assurance/management  at 2024-07-09 16:38:19
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Engineer - Electrical engineering  from  Engineer - Electrical engineering  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Carpenter and glazier  from  Carpenter and glazier  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Geriatric nurse  from  Geriatric nurse  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Glazier - window and glass facade construction  from  Glazier - window and glass facade construction  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Carpenter and glazier  from  Carpenter and glazier  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Vehicle painter  from  Vehicle painter  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Specialist - General Medicine (Family Doctor)  from  Specialist - General Medicine (Family Doctor)  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Plant mechanic - sanitary, heating and air conditioning technology  from  Plant mechanic - sanitary, heating and air conditioning technology  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Health and nursing assistant  from  Health and nursing assistant  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Specialist - Ophthalmology  from  Specialist - Ophthalmology  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Warehouse logistics specialist  from  Warehouse logistics specialist  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Specialist - Vascular surgery  from  Specialist - Vascular surgery  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Wood mechanic-manufacturer of Building element, wood packer and frame  from  Wood mechanic-manufacturer of Building element, wood packer and frame  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Master plumber and heating engineer  from  Master plumber and heating engineer  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Building electrician  from  Building electrician  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Site manager  from  Site manager  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Engineer - Power Engineering  from  Engineer - Power Engineering  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Commercial specialist  from  Commercial specialist  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Mechatronics technician  from  Mechatronics technician  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Structural draughtsman  from  Structural draughtsman  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Technical System Planner - Supply and Equipment Engineering (m/f)  from  Technical System Planner - Supply and Equipment Engineering (m/f)  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Technician - Supply Engineering  from  Technician - Supply Engineering  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Engineer - Electrical engineering  from  Engineer - Electrical engineering  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Site manager  from  Site manager  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Galvanizer  from  Galvanizer  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Engineer - Electrical engineering  from  Engineer - Electrical engineering  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Technician - Machining Technology  from  Technician - Machining Technology  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Plant mechanic - sanitary, heating and air conditioning technology  from  Plant mechanic - sanitary, heating and air conditioning technology  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Engineer - Mechatronics  from  Engineer - Mechatronics  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Master carpenter  from  Master carpenter  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Electronics technician - automation and systems engineering  from  Electronics technician - automation and systems engineering  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Engineer - Environmental Protection/Environmental Engineering  from  Engineer - Environmental Protection/Environmental Engineering  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Technician - Machining Technology  from  Technician - Machining Technology  at 2024-07-09 16:38:20
+2024-07-09 16:38:20 [root] INFO: Scraped job:  Industrial foreman - technical wagon handling - railroad  from  Industrial foreman - technical wagon handling - railroad  at 2024-07-09 16:38:20
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Journalist  from  Journalist  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Field representative  from  Field representative  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Technician - Machining Technology  from  Technician - Machining Technology  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Engineer - Information, Communication Technology  from  Engineer - Information, Communication Technology  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Metal worker - commercial vehicle construction  from  Metal worker - commercial vehicle construction  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Frontend developer  from  Frontend developer  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Engineer - Renewable Energies  from  Engineer - Renewable Energies  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Joiner  from  Joiner  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Restaurant Employee  from  Restaurant Employee  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Design engineer  from  Design engineer  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Plant mechanic - sanitary, heating and air conditioning technology  from  Plant mechanic - sanitary, heating and air conditioning technology  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Design engineer  from  Design engineer  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Engineer - Mechatronics  from  Engineer - Mechatronics  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Journalist  from  Journalist  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Technician - Machining Technology  from  Technician - Machining Technology  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job: 
+            Restaurant Employee
+         from 
+            Restaurant Employee
+         at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Nursing specialist (geriatric care)  from  Nursing specialist (geriatric care)  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Technician - Machining Technology  from  Technician - Machining Technology  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Engineer - Mechatronics  from  Engineer - Mechatronics  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Body and vehicle builder - vehicle construction  from  Body and vehicle builder - vehicle construction  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Engineer - Electrical engineering  from  Engineer - Electrical engineering  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Restaurant Employee  from  Restaurant Employee  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Restaurant Employee  from  Restaurant Employee  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Engineer - Renewable Energies  from  Engineer - Renewable Energies  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Metal worker - commercial vehicle construction  from  Metal worker - commercial vehicle construction  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Plant mechanic - sanitary, heating and air conditioning technology  from  Plant mechanic - sanitary, heating and air conditioning technology  at 2024-07-09 16:38:21
+2024-07-09 16:38:21 [root] INFO: Scraped job:  Engineer - Renewable Energies  from  Engineer - Renewable Energies  at 2024-07-09 16:38:21
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Engineer - Electrical engineering  from  Engineer - Electrical engineering  at 2024-07-09 16:38:21
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Plant mechanic - sanitary, heating and air conditioning technology  from  Plant mechanic - sanitary, heating and air conditioning technology  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Chef de rang  from  Chef de rang  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Nursing specialist (training)  from  Nursing specialist (training)  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Engineer - Electrical engineering  from  Engineer - Electrical engineering  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Nursing specialist (training)  from  Nursing specialist (training)  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Engineer - Mechatronics  from  Engineer - Mechatronics  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Business informatics specialist (university)  from  Business informatics specialist (university)  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Nursing specialist (geriatric care)  from  Nursing specialist (geriatric care)  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Plant mechanic - sanitary, heating and air conditioning technology  from  Plant mechanic - sanitary, heating and air conditioning technology  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Engineer - Electrical engineering  from  Engineer - Electrical engineering  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Engineer - Environmental Protection/Environmental Engineering  from  Engineer - Environmental Protection/Environmental Engineering  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Plant mechanic - sanitary, heating and air conditioning technology  from  Plant mechanic - sanitary, heating and air conditioning technology  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Nursing specialist (training)  from  Nursing specialist (training)  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Journalist  from  Journalist  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Technician - Machining Technology  from  Technician - Machining Technology  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Trade assistant - bakery trade  from  Trade assistant - bakery trade  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Specialist - Ophthalmology  from  Specialist - Ophthalmology  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Customer Experience Manager  from  Customer Experience Manager  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Sales assistant - food trade  from  Sales assistant - food trade  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Sales assistant - food trade  from  Sales assistant - food trade  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Neuropsychologe/psychologin  from  Neuropsychologe/psychologin  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Gardener - Gardening and landscaping  from  Gardener - Gardening and landscaping  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Software developer  from  Software developer  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Educator  from  Educator  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Master Gardener - Gardening and Landscaping  from  Master Gardener - Gardening and Landscaping  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Metal worker - construction technology  from  Metal worker - construction technology  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Dental technician  from  Dental technician  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Sales assistant - food trade  from  Sales assistant - food trade  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Dental technician  from  Dental technician  at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job: 
+            Professional driver
+         from 
+            Professional driver
+         at 2024-07-09 16:38:22
+2024-07-09 16:38:22 [root] INFO: Scraped job:  Dental technician  from  Dental technician  at 2024-07-09 16:38:22
+2024-07-09 16:38:23 [root] INFO: Scraped job:  Professional driver  from  Professional driver  at 2024-07-09 16:38:23
+2024-07-09 16:38:23 [root] INFO: Scraped job:  Cook  from  Cook  at 2024-07-09 16:38:23
+2024-07-09 16:38:23 [root] INFO: Scraped job:  Specialist - General Medicine (Family Doctor)  from  Specialist - General Medicine (Family Doctor)  at 2024-07-09 16:38:23
+2024-07-09 16:38:23 [root] INFO: Scraped job:  Doctor/physician  from  Doctor/physician  at 2024-07-09 16:38:23
+2024-07-09 16:38:23 [root] INFO: Scraped job:  Specialist - General Medicine (Family Doctor)  from  Specialist - General Medicine (Family Doctor)  at 2024-07-09 16:38:23
+2024-07-09 16:38:23 [root] INFO: Scraped job:  Specialist - General Medicine (Family Doctor)  from  Specialist - General Medicine (Family Doctor)  at 2024-07-09 16:38:23
+2024-07-09 16:38:23 [root] INFO: Scraped job:  Specialist - General Medicine (Family Doctor)  from  Specialist - General Medicine (Family Doctor)  at 2024-07-09 16:38:23
+2024-07-09 16:38:23 [root] INFO: Scraped job:  Engineer - Electrical engineering  from  Engineer - Electrical engineering  at 2024-07-09 16:38:23
+2024-07-09 16:38:23 [root] INFO: Scraped job:  Management assistant - office communication  from  Management assistant - office communication  at 2024-07-09 16:38:23
+2024-07-09 16:38:25 [root] INFO: Scraped job:  Health and nursing assistant  from  Health and nursing assistant  at 2024-07-09 16:38:25
+2024-07-09 16:38:25 [scrapy.core.engine] INFO: Closing spider (finished)
+2024-07-09 16:38:25 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 107024,
+ 'downloader/request_count': 190,
+ 'downloader/request_method_count/GET': 190,
+ 'downloader/response_bytes': 3944488,
+ 'downloader/response_count': 190,
+ 'downloader/response_status_count/200': 190,
+ 'dupefilter/filtered': 180,
+ 'elapsed_time_seconds': 8.137027,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2024, 7, 9, 14, 38, 25, 200446, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 26217867,
+ 'httpcompression/response_count': 190,
+ 'item_scraped_count': 180,
+ 'log_count/INFO': 191,
+ 'memusage/max': 68730880,
+ 'memusage/startup': 68730880,
+ 'request_depth_max': 1,
+ 'response_received_count': 190,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 189,
+ 'scheduler/dequeued/memory': 189,
+ 'scheduler/enqueued': 189,
+ 'scheduler/enqueued/memory': 189,
+ 'start_time': datetime.datetime(2024, 7, 9, 14, 38, 17, 63419, tzinfo=datetime.timezone.utc)}
+2024-07-09 16:38:25 [scrapy.core.engine] INFO: Spider closed (finished)
+INFO: Finished crawling 2024-07-09 16:38:25.348649...
